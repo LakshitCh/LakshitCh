@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I'm Lakshit<br><br>🎓 First-year engineering student at NIT Jalandhar<br>💻 Learning C++ and Data Structures & Algorithms<br>🤖 Exploring the basics of AI & Machine Learning<br>🌐 Interested in JavaScript and web development<br><br>Currently learning, experimenting, and building step by step.<br>
+Hi there 👋<br>I'm Lakshit Choudhary<br><br>🎓 First-year engineering student at NIT Jalandhar<br>💻 Learning C++ and Data Structures & Algorithms<br>🤖 Exploring the basics of AI & Machine Learning<br>🌐 Interested in JavaScript and web development<br><br>Currently learning, experimenting, and building step by step.<br>
 
 
 ## 🌐 Socials:
